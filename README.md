@@ -1,4 +1,4 @@
-# 👩‍💻 Python Practice Projects by Sejalsavran 🚀
+# 👩‍💻 Python Practice 🚀
 Welcome to my little corner of Python programming! Here you’ll find a bunch of fun mini projects and practice scripts I’ve worked on to sharpen my skills. Whether it’s looping, string magic, number crunching, or even a classic game, I’ve got it covered. Let’s dive in! 🌟
 
 ## 📂 What’s Inside?
